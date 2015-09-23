@@ -10,7 +10,8 @@
 
 using namespace std;
 using namespace cv;
-
+//git
+//ha-ha
 Mat rgb_to_grayscale(Mat image)
 {
     Mat gray = Mat(image.rows, image.cols, CV_8UC1);
